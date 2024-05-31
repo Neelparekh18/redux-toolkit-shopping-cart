@@ -15,3 +15,14 @@ A React application demonstrating a shopping cart implementation using Redux Too
 - React
 - Redux Toolkit
 - React-Bootstrap
+
+## Screenshots
+
+*Main view of the products:*
+
+![Screenshot (124)](https://github.com/Neelparekh18/redux-toolkit-shopping-cart/assets/108720015/6ba0d3bb-5b1f-49f1-96c9-6170d8def712)
+
+
+*Cart page view:*
+
+![Screenshot (125)](https://github.com/Neelparekh18/redux-toolkit-shopping-cart/assets/108720015/93ddded8-18cd-46b6-9bfd-5a305ef8578a)
